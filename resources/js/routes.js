@@ -11,7 +11,7 @@ import CasinosAssigned from './components/admin/casino/CasinosAssigned'
 import AssignCountry from './components/admin/casino/AssignCountry'
 import AddCountry from './components/admin/country/AddCountry'
 // import AdminCountryList from './components/admin/country/Countries'
-import CasinoCountries from './components/admin/casino/CasinoCountries'
+import CasinoCountries from './components/admin/casino/CasinoCountries' 
 
 const routes = [
   {
