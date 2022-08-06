@@ -5,18 +5,12 @@ A demo casino affiliates website designed using Vue.js and Laravel Framework
 
 
 ## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## API Reference
 
 #### Get all items
 
 ```http
-  GET /api/items
+  GET /api/casinos
 ```
 
 | Parameter | Type     | Description                |
@@ -26,7 +20,7 @@ A demo casino affiliates website designed using Vue.js and Laravel Framework
 #### Get item
 
 ```http
-  GET /api/items/${id}
+  GET /api/casino/${id}
 ```
 
 | Parameter | Type     | Description                       |
@@ -98,7 +92,6 @@ DB_CONNECTION=sqlite
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
 
 
 ## Demo
