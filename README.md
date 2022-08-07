@@ -74,8 +74,6 @@ To deploy this project run
 
     - Run npm install the setup node modules
 
-    - Go to the homepage to register your subscribers
-
     You are all set.. Goodluck!
 
 
